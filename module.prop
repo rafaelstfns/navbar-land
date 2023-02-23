@@ -4,3 +4,4 @@ version=v1.0
 versionCode=100
 author=@rafaelstfns on telegram
 description=HW navbar disabler and on-screen navbar enabler for land (Redmi 3S)
+updateJson=https://raw.githubusercontent.com/rafaelstfns/navbar-land/main/update.json
