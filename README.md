@@ -1,5 +1,5 @@
 # navbar-land
-magisk modules to disable HW navbar and enable on-screen navbar for land (Redmi 3S)
+magisk module to disable HW navbar and enable on-screen navbar for land (Redmi 3S)
 
 have any suggestions? u can PM me on [telegram](t.me/rafaelstfns)
 
